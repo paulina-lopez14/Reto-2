@@ -29,9 +29,11 @@ Llama al método mostrarInformacion() para mostrar los datos en consola
 * IDE: IntelliJ IDEA
 
 ## 📚 Recursos útiles
-🔗 Clases en Java – W3Schools
-🔗 Constructores en Java – W3Schools
-🔗 Records en Java – Oracle Docs
+🔗 Clases en Java – W3Schools https://www.w3schools.com/java/java_classes.asp 
+
+🔗 Constructores en Java – W3Schools https://www.w3schools.com/java/java_constructors.asp 
+
+🔗 Records en Java – Oracle Docs https://docs.oracle.com/en/java/javase/17/language/records.html 
 
 
    
