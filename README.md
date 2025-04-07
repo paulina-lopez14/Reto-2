@@ -31,6 +31,8 @@ Entrada
 Principal
 ![image](https://github.com/user-attachments/assets/c85e9fce-2dab-49ce-9a47-759283c56af6)
 
+Resultado
+![image](https://github.com/user-attachments/assets/87c405cd-14b8-411c-a001-2d1ebb2f4f9a)
 
 ## 🛠️ Tecnologías usadas
 * Lenguaje: Java
