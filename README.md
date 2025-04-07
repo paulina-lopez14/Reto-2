@@ -24,6 +24,14 @@ Llama al método mostrarInformacion() para mostrar los datos en consola
 - Entrada.java: Clase que representa al evento con atributos (nombre y precio de la entrada), un constructor y el método mostrarInformación. 
 - Principal.java: Clase principal que contiene el main, crea dos objetos, les da atributos específicos y llama al método para mostrar la información
 
+##  💻 Preview
+Entrada
+![image](https://github.com/user-attachments/assets/ec8024af-9c15-44e7-9534-36b215757b38)
+
+Principal
+![image](https://github.com/user-attachments/assets/c85e9fce-2dab-49ce-9a47-759283c56af6)
+
+
 ## 🛠️ Tecnologías usadas
 * Lenguaje: Java
 * IDE: IntelliJ IDEA
